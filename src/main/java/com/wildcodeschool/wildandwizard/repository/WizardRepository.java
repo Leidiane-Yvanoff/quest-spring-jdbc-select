@@ -39,6 +39,7 @@ public class WizardRepository {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+        
         return null;
     }
 
